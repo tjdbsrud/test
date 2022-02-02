@@ -1,4 +1,4 @@
-print("Hello YJ!")
+print("okay~~~~~~~~~~~!")
 print('changed_YK!!!')
 print("What is wrong with it?!")
 print('YKYK!!!')
